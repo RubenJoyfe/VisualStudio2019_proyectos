@@ -1,0 +1,11 @@
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\bin\Debug\ClaseEmpleado.exe.config
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\bin\Debug\ClaseEmpleado.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\bin\Debug\ClaseEmpleado.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\bin\Debug\ClaseEmpleado.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\obj\Debug\ClaseEmpleado.vbproj.AssemblyReference.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\obj\Debug\ClaseEmpleado.Resources.resources
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\obj\Debug\ClaseEmpleado.vbproj.GenerateResource.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\obj\Debug\ClaseEmpleado.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\obj\Debug\ClaseEmpleado.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\obj\Debug\ClaseEmpleado.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ClaseEmpleado\obj\Debug\ClaseEmpleado.pdb

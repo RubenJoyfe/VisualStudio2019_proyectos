@@ -1,0 +1,12 @@
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\bin\Debug\PruebaInicial.exe.config
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\bin\Debug\PruebaInicial.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\bin\Debug\PruebaInicial.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\bin\Debug\PruebaInicial.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\obj\Debug\PruebaInicial.vbproj.AssemblyReference.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\obj\Debug\PruebaInicial.Resources.resources
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\obj\Debug\PruebaInicial.vbproj.GenerateResource.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\obj\Debug\PruebaInicial.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\obj\Debug\PruebaInicial.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\obj\Debug\PruebaInicial.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\obj\Debug\PruebaInicial.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\PruebaInicial\PruebaInicial\obj\Debug\PruebaInicial.FrmInicial.resources

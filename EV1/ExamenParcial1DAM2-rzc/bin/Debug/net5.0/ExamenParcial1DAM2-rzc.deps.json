@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExamenParcial1DAM2-rzc/1.0.0": {
+        "runtime": {
+          "ExamenParcial1DAM2-rzc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamenParcial1DAM2-rzc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

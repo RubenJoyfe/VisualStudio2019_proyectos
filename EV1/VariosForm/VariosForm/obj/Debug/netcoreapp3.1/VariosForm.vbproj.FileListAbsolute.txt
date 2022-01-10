@@ -1,0 +1,16 @@
+C:\VB\VariosForm\VariosForm\bin\Debug\netcoreapp3.1\VariosForm.exe
+C:\VB\VariosForm\VariosForm\bin\Debug\netcoreapp3.1\VariosForm.deps.json
+C:\VB\VariosForm\VariosForm\bin\Debug\netcoreapp3.1\VariosForm.runtimeconfig.json
+C:\VB\VariosForm\VariosForm\bin\Debug\netcoreapp3.1\VariosForm.runtimeconfig.dev.json
+C:\VB\VariosForm\VariosForm\bin\Debug\netcoreapp3.1\VariosForm.dll
+C:\VB\VariosForm\VariosForm\bin\Debug\netcoreapp3.1\VariosForm.pdb
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.vbprojAssemblyReference.cache
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.Form1.resources
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.Form2.resources
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.vbproj.GenerateResource.cache
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.AssemblyInfoInputs.cache
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.AssemblyInfo.vb
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.vbproj.CoreCompileInputs.cache
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.dll
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.pdb
+C:\VB\VariosForm\VariosForm\obj\Debug\netcoreapp3.1\VariosForm.genruntimeconfig.cache

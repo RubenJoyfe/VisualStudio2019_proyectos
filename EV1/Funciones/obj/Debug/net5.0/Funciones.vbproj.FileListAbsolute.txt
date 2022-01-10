@@ -1,0 +1,16 @@
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\bin\Debug\net5.0\Funciones.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\bin\Debug\net5.0\Funciones.deps.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\bin\Debug\net5.0\Funciones.runtimeconfig.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\bin\Debug\net5.0\Funciones.runtimeconfig.dev.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\bin\Debug\net5.0\Funciones.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\bin\Debug\net5.0\ref\Funciones.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\bin\Debug\net5.0\Funciones.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\Funciones.vbproj.AssemblyReference.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\Funciones.AssemblyInfo.vb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\Funciones.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\Funciones.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\ref\Funciones.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\Funciones.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Funciones\obj\Debug\net5.0\Funciones.genruntimeconfig.cache

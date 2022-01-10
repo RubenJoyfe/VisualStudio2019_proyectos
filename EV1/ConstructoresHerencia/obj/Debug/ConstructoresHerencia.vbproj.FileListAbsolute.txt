@@ -1,0 +1,11 @@
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\bin\Debug\ConstructoresHerencia.exe.config
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\bin\Debug\ConstructoresHerencia.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\bin\Debug\ConstructoresHerencia.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\bin\Debug\ConstructoresHerencia.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\obj\Debug\ConstructoresHerencia.vbproj.AssemblyReference.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\obj\Debug\ConstructoresHerencia.Resources.resources
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\obj\Debug\ConstructoresHerencia.vbproj.GenerateResource.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\obj\Debug\ConstructoresHerencia.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\obj\Debug\ConstructoresHerencia.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\obj\Debug\ConstructoresHerencia.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ConstructoresHerencia\obj\Debug\ConstructoresHerencia.pdb

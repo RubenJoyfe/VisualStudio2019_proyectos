@@ -1,0 +1,16 @@
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\bin\Debug\net5.0\ExamenParcial1DAM2-rzc.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\bin\Debug\net5.0\ExamenParcial1DAM2-rzc.deps.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\bin\Debug\net5.0\ExamenParcial1DAM2-rzc.runtimeconfig.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\bin\Debug\net5.0\ExamenParcial1DAM2-rzc.runtimeconfig.dev.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\bin\Debug\net5.0\ExamenParcial1DAM2-rzc.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\bin\Debug\net5.0\ref\ExamenParcial1DAM2-rzc.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\bin\Debug\net5.0\ExamenParcial1DAM2-rzc.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ExamenParcial1DAM2-rzc.vbproj.AssemblyReference.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ExamenParcial1DAM2-rzc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ExamenParcial1DAM2-rzc.AssemblyInfoInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ExamenParcial1DAM2-rzc.AssemblyInfo.vb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ExamenParcial1DAM2-rzc.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ExamenParcial1DAM2-rzc.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ref\ExamenParcial1DAM2-rzc.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ExamenParcial1DAM2-rzc.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\ExamenParcial1DAM2-rzc\obj\Debug\net5.0\ExamenParcial1DAM2-rzc.genruntimeconfig.cache

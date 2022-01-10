@@ -1,0 +1,11 @@
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\obj\Debug\Repaso_Victor.vbproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\obj\Debug\Repaso_Victor.Resources.resources
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\obj\Debug\Repaso_Victor.vbproj.GenerateResource.cache
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\obj\Debug\Repaso_Victor.vbproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\bin\Debug\Repaso_Victor.exe.config
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\bin\Debug\Repaso_Victor.exe
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\bin\Debug\Repaso_Victor.pdb
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\bin\Debug\Repaso_Victor.xml
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\obj\Debug\Repaso_Victor.exe
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\obj\Debug\Repaso_Victor.xml
+C:\Users\Ruben\Documents\VisualStudio2019_proyectos\Repaso_Victor\Repaso_Victor\obj\Debug\Repaso_Victor.pdb

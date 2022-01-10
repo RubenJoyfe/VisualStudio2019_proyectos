@@ -1,0 +1,11 @@
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\bin\Debug\BiblitecaClases.exe.config
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\bin\Debug\BiblitecaClases.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\bin\Debug\BiblitecaClases.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\bin\Debug\BiblitecaClases.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\obj\Debug\BiblitecaClases.vbproj.AssemblyReference.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\obj\Debug\BiblitecaClases.Resources.resources
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\obj\Debug\BiblitecaClases.vbproj.GenerateResource.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\obj\Debug\BiblitecaClases.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\obj\Debug\BiblitecaClases.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\obj\Debug\BiblitecaClases.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\BiblitecaClases\obj\Debug\BiblitecaClases.pdb

@@ -1,0 +1,16 @@
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\bin\Debug\net5.0\Lenguaje.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\bin\Debug\net5.0\Lenguaje.deps.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\bin\Debug\net5.0\Lenguaje.runtimeconfig.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\bin\Debug\net5.0\Lenguaje.runtimeconfig.dev.json
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\bin\Debug\net5.0\Lenguaje.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\bin\Debug\net5.0\ref\Lenguaje.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\bin\Debug\net5.0\Lenguaje.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\Lenguaje.vbproj.AssemblyReference.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\Lenguaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\Lenguaje.AssemblyInfoInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\Lenguaje.AssemblyInfo.vb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\Lenguaje.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\Lenguaje.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\ref\Lenguaje.dll
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\Lenguaje.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Lenguaje\obj\Debug\net5.0\Lenguaje.genruntimeconfig.cache

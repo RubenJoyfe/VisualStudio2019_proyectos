@@ -1,0 +1,11 @@
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\obj\Debug\Ocultacion.vbproj.AssemblyReference.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\obj\Debug\Ocultacion.Resources.resources
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\obj\Debug\Ocultacion.vbproj.GenerateResource.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\obj\Debug\Ocultacion.vbproj.CoreCompileInputs.cache
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\bin\Debug\Ocultacion.exe.config
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\bin\Debug\Ocultacion.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\bin\Debug\Ocultacion.pdb
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\bin\Debug\Ocultacion.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\obj\Debug\Ocultacion.exe
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\obj\Debug\Ocultacion.xml
+C:\Users\admin-dam2b\Documents\VisualStudio2019_proyectos\Ocultacion\obj\Debug\Ocultacion.pdb
