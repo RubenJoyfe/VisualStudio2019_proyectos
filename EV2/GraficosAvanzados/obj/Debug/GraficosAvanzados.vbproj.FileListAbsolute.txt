@@ -1,0 +1,3 @@
+\\jupiter\PROFESORES\tere\VB net\ObjetosGraficos\GraficosAvanzados\obj\Debug\GraficosAvanzados.exe
+\\jupiter\PROFESORES\tere\VB net\ObjetosGraficos\GraficosAvanzados\obj\Debug\GraficosAvanzados.xml
+\\jupiter\PROFESORES\tere\VB net\ObjetosGraficos\GraficosAvanzados\obj\Debug\GraficosAvanzados.pdb

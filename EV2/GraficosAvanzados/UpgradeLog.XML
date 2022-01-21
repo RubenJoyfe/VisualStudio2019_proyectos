@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GraficosAvanzados">
+</Property><Property Name="Archivo de la solución" Value="\\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\GraficosAvanzados.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="\\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\GraficosAvanzados.suo">
+</Property><Property Name="Date" Value="domingo, 15 de noviembre de 2009">
+</Property><Property Name="Time" Value="20:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GraficosAvanzados.sln" Description="La copia \\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\Backup\GraficosAvanzados.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="GraficosAvanzados.suo" Description="La copia \\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\Backup\GraficosAvanzados.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="GraficosAvanzados" Source="GraficosAvanzados.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto \\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\Backup\GraficosAvanzados.vbproj">
+</Event><Event ErrorLevel="0" Project="GraficosAvanzados" Source="GraficosAvanzados.vbproj.user" Description="La copia de seguridad \\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\Backup\GraficosAvanzados.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="GraficosAvanzados" Source="AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo \\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="GraficosAvanzados" Source="Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo \\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="GraficosAvanzados" Source="Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo \\Jupiter\tere\VB net\ObjetosGraficos\GraficosAvanzados\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GraficosAvanzados" Source="GraficosAvanzados.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="GraficosAvanzados" Source="GraficosAvanzados.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GraficosAvanzados.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="GraficosAvanzados.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GraficosAvanzados" Source="GraficosAvanzados.vbproj" Description="Búsqueda completa: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

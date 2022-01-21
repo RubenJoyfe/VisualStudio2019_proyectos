@@ -1,0 +1,9 @@
+obj\Debug\GraficosAvanzados.exe
+obj\Debug\GraficosAvanzados.pdb
+bin\GraficosAvanzados.exe
+bin\GraficosAvanzados.pdb
+bin\GraficosAvanzados.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GraficosAvanzados.Form1.resources
+obj\Debug\GraficosAvanzados.vbproj.GenerateResource.Cache
+obj\Debug\GraficosAvanzados.xml
